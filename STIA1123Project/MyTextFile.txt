@@ -1,0 +1,30 @@
+[
+Name 	: Bernard
+Phone 	: 012-2332333
+ID 	: 020223-02-2333
+Address 	: 23, Lorong Permai 5, Taman Permai, 14200 Jawi.
+Conversion 	: Rupiah 23.0000
+Converted 	: RM 0.0067 
+, 
+Name 	: Wish
+Phone 	: 019-2468468
+ID 	: 970709-07-9797
+Address 	: 9, Jalan Panchor 2, Taman Panchor, 14300 Nibong Tebal.
+Conversion 	: Rupiah 97.0000
+Converted 	: USD 0.0068 
+]
+[
+Name 	: Lucky
+Phone 	: 017-7007000
+ID 	: 000707-07-7070
+Address 	: 7, Jalan Seri Panchor, Taman Seri Panchor, 14300 Nibong Tebal.
+Conversion 	: RM 77.0000
+Converted 	: Rupiah 266126.6300 
+, 
+Name 	: Vin
+Phone 	: 011-1231234
+ID 	: 010101-01-1111
+Address 	: 1, Lorong Bukit Permai, Taman Bukit Permai, 14300 Nibong Tebal.
+Conversion 	: USD 11.0000
+Converted 	: Rupiah 156805.5500 
+]
